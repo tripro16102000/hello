@@ -67,5 +67,5 @@ class PostItem extends HTMLElement {
 
 }
 
-// abc
+// abc ádasd
 window.customElements.define('post-item', PostItem) 
